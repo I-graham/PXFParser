@@ -1,0 +1,15 @@
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.csproj.AssemblyReference.cache
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.AssemblyInfoInputs.cache
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.AssemblyInfo.cs
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.csproj.CoreCompileInputs.cache
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\bin\Debug\net7.0\PFXParser.exe
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\bin\Debug\net7.0\PFXParser.deps.json
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\bin\Debug\net7.0\PFXParser.runtimeconfig.json
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\bin\Debug\net7.0\PFXParser.dll
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\bin\Debug\net7.0\PFXParser.pdb
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.dll
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\refint\PFXParser.dll
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.pdb
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\PFXParser.genruntimeconfig.cache
+C:\Users\Iangr\Desktop\Lab\C#\PFXParser\obj\Debug\net7.0\ref\PFXParser.dll
