@@ -58,7 +58,7 @@
 
         public override string ToString() {
 
-            string output = this.tag.ToString() + ": " + this.data;
+            string output = this.tag.ToString() + ": " + this.data.Count;
 
 			switch(this.tag) {
 				default:
