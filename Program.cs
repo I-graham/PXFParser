@@ -1,20 +1,15 @@
 ﻿namespace PFXParser
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+			var certs = X509.parse("test.p7b");
 
-            var fs = new FileStream("test.p7b", FileMode.Open);
-            var len = (int)fs.Length;
-            var bits = new byte[len];
+			foreach(var cert in certs) {
+				Console.WriteLine(cert);
+			}
 
-            fs.Read(bits, 0, len);
-
-            DERElement der = DERElement.parse(new ArraySegment<byte>(bits)).Item2;
-
-            Console.WriteLine(der.ToString());
-
-        }
-    }
+		}
+	}
 }
