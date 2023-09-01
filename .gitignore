@@ -1,0 +1,6 @@
+/bin
+/obj
+/.vscode
+PFXParser.csproj
+test.p7b
+test2.p7b
